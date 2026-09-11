@@ -265,3 +265,6 @@ This repository serves as the official landing page for Throne and Liberty. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Throne and Liberty today!**
+
+---
+**Last updated:** 2026-09-11 05:39:54 UTC
