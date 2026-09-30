@@ -267,4 +267,4 @@ This repository serves as the official landing page for Throne and Liberty. The 
 **Get the most recent version of Throne and Liberty today!**
 
 ---
-**Last updated:** 2026-09-30 16:45:11 UTC
+**Last updated:** 2026-09-30 21:16:10 UTC
